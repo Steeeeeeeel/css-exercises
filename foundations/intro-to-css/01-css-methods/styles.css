@@ -1,11 +1,13 @@
-#external{
-background-color: red;
-text-decoration-color: white;
-font-size: 32px;
-font-weight: bold;
-display: flexbox;
-align-self: center;
-align-items: center;
-border: green 10px;
-border-radius: 10px;
+.external {
+  background-color: red;
+color: white;
+  font-weight: bold;
+  font-size: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 9px;
+}
+body{
+    background-color: wheat;
 }
