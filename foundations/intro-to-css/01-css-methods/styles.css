@@ -1,0 +1,11 @@
+#external{
+background-color: red;
+text-decoration-color: white;
+font-size: 32px;
+font-weight: bold;
+display: flexbox;
+align-self: center;
+align-items: center;
+border: green 10px;
+border-radius: 10px;
+}
