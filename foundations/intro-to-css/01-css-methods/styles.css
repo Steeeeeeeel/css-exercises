@@ -1,6 +1,6 @@
 .external {
   background-color: red;
-color: white;
+  color: rgb(0, 0, 0);
   font-weight: bold;
   font-size: 32px;
   display: flex;
@@ -8,6 +8,6 @@ color: white;
   justify-content: center;
   border-radius: 9px;
 }
-body{
-    background-color: wheat;
+body {
+  background-color: wheat;
 }
