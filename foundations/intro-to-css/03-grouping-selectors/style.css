@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+button {
+  font-family:
+    Helvetica,
+    Times New Roman,
+    sans-serif;
+  font-size: 28px;
+}
+.c1 {
+  background-color: black;
+  color: azure;
+}
+.c2 {
+    background-color: yellow;
+}
